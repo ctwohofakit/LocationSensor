@@ -19,9 +19,8 @@ Views: PermissionView, LocationReadyView, WeatherView
 MainView: ContentView
 
 1–2 screenshots of the main UI
-![App Screenshot](README_Images/log.png)
-![App Screenshot](README_Images/dayWeather.png)
-![App Screenshot](README_Images/nightWeather.png)
 
-
+<img src="LocationSensor/README_Images/log.png" width="300" alt="Log Screen">
+<img src="LocationSensor/README_Images/dayWeather.png" width="300" alt="Day Weather Screen">
+<img src="LocationSensor/README_Images/nightWeather.png" width="300" alt="Night Weather Screen">
 
