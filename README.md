@@ -20,7 +20,7 @@ MainView: ContentView
 
 1–2 screenshots of the main UI
 
-<img src="README_Images/log.png" width="300" alt="Log Screen">
-<img src="README_Images/dayWeather.png" width="300" alt="Day Weather Screen">
-<img src="README_Images/nightWeather.png" width="300" alt="Night Weather Screen">
+<img src="LocationSensor/README_Images/log.png" width="300" alt="Log Screen">
+<img src="LocationSensor/README_Images/dayWeather.png" width="300" alt="Day Weather Screen">
+<img src="LocationSensor/README_Images/nightWeather.png" width="300" alt="Night Weather Screen">
 
